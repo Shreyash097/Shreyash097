@@ -90,14 +90,13 @@ Beyond coding, I’m highly interested in aviation technology, fighter aircraft 
 - Vercel
 
 ---
-
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Shreyash097&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![Shreyash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreyash097&show_icons=true&theme=radical&hide_border=false&count_private=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shreyash097&theme=radical&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Shreyash097&theme=radical&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyash097&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyash097&theme=radical&hide_border=false&layout=compact)
 
 ---
 
