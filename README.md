@@ -85,6 +85,9 @@ Beyond coding, I’m highly interested in aviation technology, fighter aircraft 
 - Postman
 - Visual Studio Code
 - Linux
+- Notion
+- Jira
+- Vercel
 
 ---
 
